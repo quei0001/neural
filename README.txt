@@ -76,7 +76,7 @@ Make sure these are listed in `requirements.txt`.
 
 ---
 Link: 
-https://neural-ager7nyxsswt4c6ugsvirl.streamlit.app/  
+https://neural-ager7nyxsswt4c6ugsvirl.streamlit.app/
 
 Notes:
 - You can modify `train_model.py` or the training logic in the main script to adjust model parameters.
